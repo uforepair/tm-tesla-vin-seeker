@@ -6,7 +6,7 @@
 // @author       trickyNoodles
 // @match        https://www.tesla.com/teslaaccount/product-finalize*
 // @grant        none
-// @@run-at      document-idle
+// @run-at      document-idle
 // ==/UserScript==
 
 function getOrCreateMessageContainer(containerId) {
